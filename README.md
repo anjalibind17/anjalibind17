@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Bind</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center"> Web Developer | Skilled in DSA & Problem Solving | MERN Stack Learner </h3>
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
 
 ---
 
@@ -58,6 +58,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjalibind17&show_icons=true&theme=tokyonight" alt="stats" />
+  &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalibind17&theme=tokyonight" alt="streak" />
 </p>
