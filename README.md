@@ -1,17 +1,17 @@
-<h1 align="center" >Hi 👋, I'm Anjali Bind </h1>
-<h3 align="center" >Web Developer | Skilled in DSA & Problem Solving | MERN Stack Learner | Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Anjali Bind</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
 
-<hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
+---
 
 ### 👩‍💻 About Me  
-- 🌱 I’m currently learning **Full-Stack Development (MERN).**  
-- 💡 Exploring **Cybersecurity** & **Hackathons.**  
-- 🚀 Interested in **Open Source & Problem Solving.**  
+- 🌱 I’m currently learning **Full-Stack Development (MERN)**  
+- 💡 Exploring **Cybersecurity** & **Hackathons**  
+- 🚀 Interested in **Open Source & Problem Solving**  
 - 📫 Reach me at **abind0173@gmail.com**
 
-<hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
+---
 
 ### 🌐 Connect with Me  
 <p align="left">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
+---
 
 ### 🛠️ Languages and Tools  
 <p align="left"> 
@@ -47,28 +47,29 @@
   <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40" height="40"/></a>
 </p>
 
-<hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
+---
 
 ### 🚀 Projects  
 - [Pharmacy Management System](https://github.com/anjalibind17/pharmacy-management)  
 - [Portfolio Website](https://anjalibind17.github.io/)  
 
-<hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
+---
 
 ### 📊 GitHub Stats  
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjalibind17&show_icons=true&theme=tokyonight" alt="stats" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalibind17&theme=tokyonight" alt="streak" />
-</div>
+</p>
 
-<hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
+---
 
 ### 🔥 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalibind17&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
-<hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anjalibind17&label=Profile%20views&color=0e75b6&style=flat" alt="anjalibind17" />
