@@ -56,11 +56,10 @@
 <hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
 
 ### 📊 GitHub Stats  
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=anjalibind17&show_icons=true&theme=tokyonight" alt="stats" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalibind17&theme=tokyonight" alt="streak" />
-</p>
+</div>
 
 <hr style="width:70%; margin-left:0; border:0.5px solid #bbb;" />
 
