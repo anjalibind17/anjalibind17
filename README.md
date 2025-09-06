@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Bind</h1>
 <h3 align="center">Web Developer | Skilled in DSA & Problem Solving | MERN Stack Learner</h3>
-
-<img align="right" alt="Coding" width="320" src="https://github.com/user-attachments/assets/e0d58a3c-b1f9-460d-806c-1b922d0a928e" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
 ---
 
@@ -15,7 +14,7 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/anjali-bind-2492a8287/" target="_blank">
+  <a href="https://www.linkedin.com/in/anjali-bind-2492a8287/" target="_parent">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:abind0173@gmail.com" target="_blank">
