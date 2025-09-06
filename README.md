@@ -56,12 +56,13 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=anjalibind17&show_icons=true&theme=tokyonight" alt="stats" />
   &nbsp;&nbsp;&nbsp;
-  
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalibind17&theme=tokyonight" alt="streak" />
+  <br>
+  <br>
+  <br>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anjalibind17&theme=tokyonight" alt="streak" />
 </p>
 
 ---
