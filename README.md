@@ -49,7 +49,7 @@
 ---
 
 ### 🚀 Projects  
-- [Pharmacy Management System](https://github.com/anjalibind17/pharmacy-management)  
+- [DesiDeal](https://desi-deal.vercel.app/)  
 - [Search Image Engine]( https://search-image-peach.vercel.app/)
    
 
